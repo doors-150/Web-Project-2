@@ -1,0 +1,20 @@
+/* Main external CSS file */
+body {
+  /* Sets background color of the whole website to black */
+  background-color: black;
+
+  /* Sets text to the center */
+  text-align: center;
+
+  /* sets the font style for the whole website */
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+
+  /* Creates a border around all the content of the website */
+  /* border: 2px white solid; */
+
+  /* Changes the sizes of the border. The numbers increase (in order): Up, right, down, left */
+  padding: 1px 1px 1px 1px;
+
+  /* Sets text color */
+  color: whitesmoke;
+}
